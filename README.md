@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔥 I’m a student of applied mathematics<br>📝 I’m currently working on my Skills<br>🦋 I’m currently learning Flutter & Dart<br>🎮 I’m developing games on Unreal Engine<br>📬 E-mail: vitalinastepnikova@gmail.com<br>😎 Pronouns: She/Her<br>⚡ JavaScript hater (joke (no))
+🔥 I’m a student of applied mathematics<br>📝 I’m currently working on my Skills<br>🦋 I’m currently learning Flutter & Dart<br>📬 E-mail: vitalinastepnikova@gmail.com<br>😎 Pronouns: She/Her<br>⚡ JavaScript hater (joke (no))
 
 
 ## 🌐 Socials:
