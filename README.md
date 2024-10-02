@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Master’s student in Applied Mathematics at the National University "Odesa Polytechnic" and simultaneously pursuing a degree in Electrical and Computer Engineering in Germany. Originally from Odesa, I have already completed my Bachelor’s degree at the Odesa National Polytechnic University, where I built a solid foundation in mathematics and programming.<br>My passion lies in algorithm development and working with artificial intelligence technologies. I strive to apply my knowledge to solve real-world problems in areas related to mathematical modeling, computer vision, and automation. I am fascinated by exploring new approaches to creating intelligent systems that can be applied across various industries such as security, automation, and data processing.
+My passion lies in algorithm development and working with artificial intelligence technologies. I strive to apply my knowledge to solve real-world problems in areas related to mathematical modeling, computer vision, and automation. I am fascinated by exploring new approaches to creating intelligent systems that can be applied across various industries such as security, automation, and data processing.
 
 
 ## 🌐 Socials:
